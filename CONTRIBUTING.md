@@ -33,5 +33,5 @@ Submit your Pull Request.
 Note: Please create separate Pull Requests for each issue. One PR closing multiple issues will NOT be encouraged.
 
 
-**We hope you enjoy contributing to our repository. Don't hesitate to contact any of the maintainers or ACM team about any problems!**
-**Maintainers Pradish Kapur | pradish.k1812@gmail.com , Joy Jefferson | joy.jefferson10@gmail.com **
+__We hope you enjoy contributing to our repository. Don't hesitate to contact any of the maintainers or ACM team about any problems!
+Maintainers Pradish Kapur | pradish.k1812@gmail.com , Joy Jefferson | joy.jefferson10@gmail.com__
