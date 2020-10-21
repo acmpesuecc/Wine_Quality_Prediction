@@ -35,3 +35,4 @@ The Data set contains the following columns
 P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.
 Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 
+Incase of any issues, get in touch with the maintainer at pradish.k1812@gmail.com
