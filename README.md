@@ -6,6 +6,11 @@
 
 __Kindly go through "CONTRIBUTING.md" before starting out on the issues :)__
 
+## Is this beginner friendly?
+  YES! Apart from beginner and intermediate level issues, there are also open ended issues which can be approached by all levels of data scientists and ML experts :)
+## What if I have a problem?
+  Contact any of the ACM Team members!<br /> 
+
 ## Dataset:
 The Data set contains the following columns
 
