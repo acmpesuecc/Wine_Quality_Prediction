@@ -29,5 +29,5 @@ OR iii)changes will be proposed iv)if outside the submission window/ after issue
 Note: Please create separate Pull Requests for each issue. One PR closing multiple issues will NOT be encouraged.
 
 
-__We hope you enjoy contributing to our repository. Don't hesitate to contact any of the maintainers or ACM team about any problems! You can reach us on the discord channel.
-Maintainers Pradish Kapur | pradish.k1812@gmail.com , Joy Jefferson | joy.jefferson10@gmail.com__
+__We hope you enjoy contributing to our repository. Don't hesitate to contact any of the maintainers or ACM team about any problems! You can reach us on the Discord channel wine-quality-prediction under the Hacknight 2.0 server
+Maintainers Pradish Kapur | Joy Jefferson 
