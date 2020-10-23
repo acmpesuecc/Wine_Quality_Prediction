@@ -43,5 +43,6 @@ P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.
 Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 
 Incase of any issues, get in touch with the maintainer at pradish.k1812@gmail.com
+Hacknight participants please contact us on the Discord channel for Wine Prediction in case of queries
 
 __This is an Official Repository for ACM PESUECC's event Hacknight 2.0 2020!__
