@@ -26,7 +26,7 @@ Below are some rules and we hope you enjoy contributing !
 9. Submit your Pull Request. You PR will either i) be merged ii) be marked as Hacktober accepted, and you will gain bounty in both these cases, 
 OR iii)changes will be proposed iv)if outside the submission window/ after issue has been closed, will be ignored in which case no bounty will be awarded.
 
-Note: Please create separate Pull Requests for each issue. One PR closing multiple issues will NOT be encouraged.
+__Note: Please create separate Pull Requests for each issue. One PR closing multiple issues will NOT be encouraged.__
 
 
 __We hope you enjoy contributing to our repository. Don't hesitate to contact any of the maintainers or ACM team about any problems! You can reach us on the Discord channel wine-quality-prediction under the Hacknight 2.0 server
