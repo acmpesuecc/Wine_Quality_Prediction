@@ -45,4 +45,6 @@ Modeling wine preferences by data mining from physicochemical properties. In Dec
 Incase of any issues, get in touch with the maintainer at pradish.k1812@gmail.com
 Hacknight participants please contact us on the Discord channel for Wine Prediction in case of queries
 
+### Maintainer: Pradish Kapur
+
 __This is an Official Repository for ACM PESUECC's event Hacknight 2.0 2020!__
